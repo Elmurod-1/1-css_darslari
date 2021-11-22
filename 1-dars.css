@@ -1,6 +1,13 @@
 div {
     alignment: center;
     color: cadetblue;
-    font: bold italic small "Times New Roman";
+}
+
+/*ranglar*/
+p {
+    /*font-family: "Times New Roman";*/
+    /*#fff 3 talik yani har 2 o'rindagi ham bir xil bo'lsa yoki #ffffff to'liq*/
+    background-color: rgb(77, 85, 10);
+    color: rgba(255, 255, 0, 0.2);
 }
 
